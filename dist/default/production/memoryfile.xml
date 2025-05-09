@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/tiger16_dsp_power.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>602</used>
+      <free>15782</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261696</length>
+      <used>9705</used>
+      <free>251991</free>
+    </memory>
+  </executable>
+</project>
